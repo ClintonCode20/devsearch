@@ -32,9 +32,8 @@ _____________________________________________
 ###PROJECT SCREENSHOTS
 
 ### HOME PAGE
-![Home Page!](/C:\Users\Clinton\Documents\screenshots "San Juan Mountains")
-C:\Users\Clinton\Documents\screenshots
 
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 
 <!--
