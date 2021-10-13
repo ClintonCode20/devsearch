@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Nwachukwu Clinton
+__________________________________________
 
-### Profession
+### **PROFESSION**
 I am a Fullstack Web Developer
 <!--
 **ClintonCode20/ClintonCode20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
