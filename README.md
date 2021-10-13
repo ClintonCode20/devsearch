@@ -12,7 +12,31 @@ ___________________________________________
 - DJANGO
 _____________________________________________
 
-#### Here is a brief explanation about this repository 
+### Here is a brief explanation about this repository <https://github.com/ClintonCode20/ClintonCode20>
+The repo above is a django project where developers from around the world can share their projects on the website
+and get reviews on their projects from other developers of the website. Developers can also send one another messages.
+_________________________________________________________________
+
+###FEATURES OF THE PROJECT
+- Share projects
+- Search for fellow developers
+- Rate other projects apart from yours
+- Ability to message one another
+________________________________________________
+
+### PROJECT STACK
+- Django
+- Postgres
+_____________________________________________
+
+###PROJECT SCREENSHOTS
+
+### HOME PAGE
+![Home Page!](/C:\Users\Clinton\Documents\screenshots "San Juan Mountains")
+C:\Users\Clinton\Documents\screenshots
+
+
+
 <!--
 **ClintonCode20/ClintonCode20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
