@@ -33,8 +33,7 @@ _____________________________________________
 
 ### HOME PAGE
 
-![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/userprofile.png)
-
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/home_page.png)
 
 
 
