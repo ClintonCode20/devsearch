@@ -33,9 +33,11 @@ _____________________________________________
 
 ### HOME PAGE
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/home%20page.png")
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")
+[![An old rock in the desert](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/home%20page.png")
+
+<!--
 **ClintonCode20/ClintonCode20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
