@@ -36,6 +36,47 @@ _____________________________________________
 ![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/home_page.png)
 
 
+### PROJECTS PAGE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/projects_page.png)
+
+
+### USER PROFILE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/userprofile_page.png)
+
+
+### PROJECT DETAIL PAGE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/project_detail_page.png)
+
+
+### MESSAGES PAGE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/messages_page.png)
+
+
+### MESSAGE PAGE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/message_detail_page.png)
+
+
+### SIGNUP PAGE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/signup_page.png)
+
+
+### LOGIN PAGE
+
+![alt text](https://github.com/ClintonCode20/ClintonCode20/blob/main/screenshots/login_page.png)
+
+
+
+
+
+
+
+
 
 
 
