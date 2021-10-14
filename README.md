@@ -17,7 +17,7 @@ The repo above is a django project where developers from around the world can sh
 and get reviews on their projects from other developers of the website. Developers can also send one another messages.
 _________________________________________________________________
 
-###FEATURES OF THE PROJECT
+### FEATURES OF THE PROJECT
 - Share projects
 - Search for fellow developers
 - Rate other projects apart from yours
@@ -29,14 +29,13 @@ ________________________________________________
 - Postgres
 _____________________________________________
 
-###PROJECT SCREENSHOTS
+### PROJECT SCREENSHOTS
 
 ### HOME PAGE
 
 ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
-
-<!--
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")
 **ClintonCode20/ClintonCode20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
