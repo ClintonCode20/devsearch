@@ -5,7 +5,7 @@ __________________________________________
 #### I am a Fullstack Web Developer and content creator on [Youtube](https://www.youtube.com/c/CodeWithClinton/videos).
 ___________________________________________
 
-### **STACK**
+### **THE STACKS I KNOW**
 - HTML
 - CSS
 - JAVASCRIPT
